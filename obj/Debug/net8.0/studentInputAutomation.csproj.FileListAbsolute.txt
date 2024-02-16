@@ -1,0 +1,14 @@
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\bin\Debug\net8.0\studentInputAutomation.exe
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\bin\Debug\net8.0\studentInputAutomation.deps.json
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\bin\Debug\net8.0\studentInputAutomation.runtimeconfig.json
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\bin\Debug\net8.0\studentInputAutomation.dll
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\bin\Debug\net8.0\studentInputAutomation.pdb
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\obj\Debug\net8.0\studentInputAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\obj\Debug\net8.0\studentInputAutomation.AssemblyInfoInputs.cache
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\obj\Debug\net8.0\studentInputAutomation.AssemblyInfo.cs
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\obj\Debug\net8.0\studentInputAutomation.csproj.CoreCompileInputs.cache
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\obj\Debug\net8.0\studentInputAutomation.dll
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\obj\Debug\net8.0\refint\studentInputAutomation.dll
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\obj\Debug\net8.0\studentInputAutomation.pdb
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\obj\Debug\net8.0\studentInputAutomation.genruntimeconfig.cache
+C:\Users\bjorn\Documents\GitHub\studentInputAutomation\obj\Debug\net8.0\ref\studentInputAutomation.dll
